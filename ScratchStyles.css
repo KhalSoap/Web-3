@@ -1,0 +1,58 @@
+h1 {
+font-size: 50px;
+font-family: Arial, sans-serif;
+text-align: center;
+color: aliceblue ;
+margin-top: 20px;
+}
+.hello {
+ padding-top: 1000px;
+font-size: 40px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+text-align: center;
+color: black;
+}
+
+.common{
+    /* border: 2px solid white; */
+    position: right;
+}
+.nav{
+    position: right;
+    float: right;
+    font-size: 75%;
+    background-color:white
+
+}
+.image{
+    top: 0;
+    left: 0;
+    right: 100%;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    padding-top: 30px;
+}
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 30px;
+
+}
+body {
+    background-color: #6e6b6b;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+.graph
+{
+    position: center;
+    z-index: -1;
+    padding-top: 30px;
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
